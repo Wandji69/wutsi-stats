@@ -1,4 +1,4 @@
-`wutsi-stats` is the library for compilings statistics
+`wutsi-stats` is the library for compiling statistics
 
 ![](https://github.com/wutsi/wutsi-stats/workflows/master/badge.svg)
 ![](https://github.com/wutsi/wutsi-stats/workflows/pull_request/badge.svg)
